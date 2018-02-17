@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/mainBackground"
-    tools:context="com.qoobico.remindme.MainActivity">
+    tools:context="com.qoobico.remindme.MainActivity"
+    android:fitsSystemWindows="true">
 
     <android.support.design.widget.CoordinatorLayout
         android:layout_width="match_parent"
